@@ -1,0 +1,2 @@
+# sukazu.art
+Demo Website
